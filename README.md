@@ -1,6 +1,6 @@
 # DeltaX — From a single point
 
-The current scroll-driven DeltaX animation, including all nine chaos effects,
+The current scroll-driven DeltaX animation, including the chaos effects,
 the thin DeltaX title font, and equations for each effect.
 
 ## Open it
